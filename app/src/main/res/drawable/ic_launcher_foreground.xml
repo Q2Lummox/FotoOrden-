@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tres fotos apiladas con un sol y una montaña -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#7FB8A4" android:pathData="M38,32h36a4,4 0,0 1,4 4v28h-4v-28h-36z" />
+    <path android:fillColor="#B9DCCF" android:pathData="M34,36h36a4,4 0,0 1,4 4v28h-4v-28h-36z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M30,40h36a2,2 0,0 1,2 2v32a2,2 0,0 1,-2 2h-36a2,2 0,0 1,-2 -2v-32a2,2 0,0 1,2 -2z" />
+    <path android:fillColor="#2E5E4E" android:pathData="M32,72l11,-15l8,10l5,-6l10,11z" />
+    <path android:fillColor="#F2B84B" android:pathData="M57,50m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+</vector>
